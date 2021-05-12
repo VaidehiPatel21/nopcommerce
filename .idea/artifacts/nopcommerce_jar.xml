@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nopcommerce:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nopcommerce_jar</output-path>
+    <root id="archive" name="nopcommerce.jar">
+      <element id="module-output" name="nopcommerce" />
+    </root>
+  </artifact>
+</component>
